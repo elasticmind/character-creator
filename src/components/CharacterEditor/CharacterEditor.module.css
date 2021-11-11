@@ -3,11 +3,21 @@
   padding-bottom: 64px;
 }
 
+.decoration {
+  background-color: hsl(195deg, 20%, 86%);
+  width: 100%;
+  height: 40vh;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+
 .maxWidthWrapper {
 }
 
 .header {
   padding-bottom: 64px;
+  width: 65%;
 }
 
 .title {
@@ -27,4 +37,5 @@
 }
 
 .controlColumn {
+  width: 50%;
 }
